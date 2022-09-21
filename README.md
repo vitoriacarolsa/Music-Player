@@ -4,7 +4,7 @@
 
 ## 🎶 Sobre 
 
-O projeto **Music Player** é um reprodutor de música, esta atividade foi proposta pelo Professor Gabriel, no **Instituto Proa.**
+O **Music Player** é um projeto desenvolvido com o intuito de apresentar diferentes gêneros musicais, refletindo em aspectos da minha vida. Esta atividade foi proposta pelo Professor Gabriel, no **Instituto Proa.**
 
 ## 💻 Tecnologias utilizadas 
 
